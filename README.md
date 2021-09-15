@@ -8,22 +8,22 @@ The winner is the one who defeats the others. In a event of a  tie, the process 
 
 The Rules are:
 
-Scissors cuts Paper,
+  Scissors cuts Paper,
 
-Paper covers Rock, 
+  Paper covers Rock, 
 
-Rock crushes Lizard, 
+  Rock crushes Lizard, 
 
-Lizard poisons Spock, 
+  Lizard poisons Spock, 
 
-Spock smashes Scissors, 
+  Spock smashes Scissors, 
 
-Scissors decapitates Lizard, 
+  Scissors decapitates Lizard, 
 
-Lizard eats Paper, 
+  Lizard eats Paper, 
 
-Paper disproves Spock, 
+  Paper disproves Spock, 
 
-Spock vaporizes Rock, 
+  Spock vaporizes Rock, 
 
-Rock crushes Scissors.
+  Rock crushes Scissors.
