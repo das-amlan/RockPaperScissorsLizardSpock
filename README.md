@@ -1,4 +1,4 @@
-# RockPaperScissorsLizardSpock
+# Rock-Paper-Scissors-Lizard-Spock
 
 Rock Paper Scissors Lizard Spock is an expansion of the game Rock Paper Scissors. 
 The game was originally created by Sam Kass. Then it was shown in the popular TV series The Big Bang Theory.
